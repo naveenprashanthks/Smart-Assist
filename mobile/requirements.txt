@@ -38,6 +38,7 @@ greenlet==3.2.2
 grpcio==1.70.0
 grpcio-status==1.70.0
 gTTS==2.5.4
+gunicorn==23.0.0
 httplib2==0.22.0
 huggingface-hub==0.28.1
 idna==3.10
